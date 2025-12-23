@@ -4,14 +4,12 @@
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
+| Mission Overview | Level Up Screen | Game Over Stats |
 | :---: | :---: | :---: |
-| ![Gameplay 1]([https://via.placeholder.com/300x200?text=Gameplay+View](https://github.com/Rahma-Eldardery/BlazeRunner/blob/main/assets/Overview.jpg)) | ![Level_Up]([https://via.placeholder.com/300x200?text=AI+Logic+View](https://github.com/Rahma-Eldardery/BlazeRunner/blob/main/assets/LevelUp.jpg)) | ![Stats]([https://via.placeholder.com/300x200?text=Score+Panel](https://github.com/Rahma-Eldardery/BlazeRunner/blob/main/assets/GameOver.jpg)) |
+| ![Gameplay 1](assets/Overview.jpg) | ![Level_Up](assets/LevelUp.jpg) | ![Stats](assets/GameOver.jpg) |
 | *Navigating the procedural maze* | *Level up screen* | *Gameover stats* |
-
-
----
 
 ## Key Features
 
