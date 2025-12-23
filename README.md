@@ -4,12 +4,12 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Mission Overview | Level Up Screen | Game Over Stats |
 | :---: | :---: | :---: |
 | ![Gameplay 1](assets/Overview.jpg) | ![Level_Up](assets/LevelUp.jpg) | ![Stats](assets/GameOver.jpg) |
-| *Navigating the procedural maze* | *Level up screen* | *Gameover stats* |
+
 
 ## Key Features
 
